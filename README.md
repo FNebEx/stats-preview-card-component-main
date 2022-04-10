@@ -4,6 +4,8 @@
 
 # Thoughts and Process
 
+[Site](http://lowly-wing.surge.sh/) uploaded to Surge.
+
 This was pretty fun to make. The biggest thing that I wanted to challenege myself on were media queries. To make the project work, I had to change the media queries to something that wasn't on the style guide. It all worked out in the end. 
 
 Something that that I worked on was using child and sibling seletors. The first time I tried challeng, I created a main wrapper with all the children elements having class names.
